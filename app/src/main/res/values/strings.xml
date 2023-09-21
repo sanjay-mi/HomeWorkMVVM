@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWorkMVVM</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_please_enter_username">Please enter your username</string>
+    <string name="text_please_enter_password">Please enter your password</string>
+    <string name="text_err_check_internet">Please check your internet connection</string>
+</resources>
